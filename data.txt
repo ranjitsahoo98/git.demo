@@ -2,3 +2,5 @@ My name is Ranjit
 I work for Epam
 I am Junior Software Engineer
 I have .Net practice
+Location is Hyderabad
+Home Location BBSR
