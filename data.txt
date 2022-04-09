@@ -4,4 +4,3 @@ I am Junior Software Engineer
 I have .Net practice
 Location is Hyderabad
 Home Location BBSR
-Present status FT
